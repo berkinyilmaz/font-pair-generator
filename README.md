@@ -4,7 +4,7 @@ Pick a heading typeface and instantly get body fonts that pair beautifully — w
 ---
 
 ## Live Demo
-_Coming soon_
+https://font-pair-generator.vercel.app/
 
 ---
 
